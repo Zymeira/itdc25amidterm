@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="CJ Patoilo">
 		<meta name="description" content="Milligram provides a minimal setup of styles for a fast and clean starting point. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.">
-		<title>Milligram | A minimalist CSS framework.</title>
+		<title>Princess Fev Claud | A minimalist CSS framework.</title>
 		<link rel="icon" href="https://milligram.github.io/images/icon.png">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
@@ -35,6 +35,12 @@
 								<ul class="popover-list">
 									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSCS</a></li>
 									<li class="popover-item"><a class="popover-link" href="#" title="Getting Started">BSIT</a></li>
+									<li class="popover-item"><a class="popover-link" href="#" 
+title="Getting Started">BSISM</a></li>
+									<li class="popover-item"><a class="popover-link" href="#" 
+title="Getting Started">BSDMIA</a></li>
+									<li class="popover-item"><a class="popover-link" href="#" 
+title="Getting Started">BSLIS</a></li>
 									<!-- Add 3 more courses here from college of computer studies [BSISM, BSDMIA, BLIS]. We shoud be able to see 3 more courses when you click on Courses menu -->
 								</ul>
 							</div>
