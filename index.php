@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="author" content="CJ Patoilo">
 		<meta name="description" content="Milligram provides a minimal setup of styles for a fast and clean starting point. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code.">
-		<title>Princess Fev Claud | A minimalist CSS framework.</title>
+		<title>Milligram | A minimalist CSS framework.</title>
 		<link rel="icon" href="https://milligram.github.io/images/icon.png">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
@@ -26,7 +26,7 @@
 						</svg>
 						&nbsp;
 						<!-- Change Milligram to your full name -->
-						<h1 class="title">Milligram</h1>
+						<h1 class="title">Princess Fev CLaud</h1>
 					</a>
 					<ul class="navigation-list float-right">
 						<li class="navigation-item">
@@ -71,6 +71,24 @@ title="Getting Started">BSLIS</a></li>
 				<p>Welcome to ITDC25a Page. We require you to login before we proceed.</p>
 				<p>
 					<!-- Enter code for your login form here -->
+<form action="#">
+   <fieldset>
+      <div class="row">
+         <div class="column">
+            <label for="txtUser">Username</label>
+            <input type="text" id="txtUser" name="txtUser">
+         </div>
+         <div class="column">
+            <label for="txtPass">Password</label>
+            <input type="password" id="txtPass" name="txtPass">
+         </div>
+         <div class="column column-20">
+            <label for=""> </label>
+            <button type="submit" class="button-primary">Login</button>
+         </div>
+      </div>
+   </fieldset>
+</form>
 				</p>
 			</section>
 
